@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react_fitness_website/static/css/main.7c1fc248.css",
-    "main.js": "/react_fitness_website/static/js/main.ea58c14b.js",
-    "static/media/banner.png": "/react_fitness_website/static/media/banner.52d7baf949f8291a383a.png",
-    "static/media/gym.png": "/react_fitness_website/static/media/gym.6e701417c428e2fbc267.png",
-    "index.html": "/react_fitness_website/index.html",
-    "main.7c1fc248.css.map": "/react_fitness_website/static/css/main.7c1fc248.css.map",
-    "main.ea58c14b.js.map": "/react_fitness_website/static/js/main.ea58c14b.js.map"
+    "main.css": "/react-fitness-website/static/css/main.7c1fc248.css",
+    "main.js": "/react-fitness-website/static/js/main.efba47cb.js",
+    "static/media/banner.png": "/react-fitness-website/static/media/banner.52d7baf949f8291a383a.png",
+    "static/media/gym.png": "/react-fitness-website/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/react-fitness-website/index.html",
+    "main.7c1fc248.css.map": "/react-fitness-website/static/css/main.7c1fc248.css.map",
+    "main.efba47cb.js.map": "/react-fitness-website/static/js/main.efba47cb.js.map"
   },
   "entrypoints": [
     "static/css/main.7c1fc248.css",
-    "static/js/main.ea58c14b.js"
+    "static/js/main.efba47cb.js"
   ]
 }
